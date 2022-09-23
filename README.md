@@ -77,7 +77,8 @@ This section has moved here:  [https://facebook.github.io/create-react-app/docs/
 
 ## 📱Follow for more!
 
-If you want to follow me along my coding journey, be sure to follow my Instagram :)
+If you want to follow me along my coding journey, be sure to follow my social networks :)
+
 **Comercial Instagram:  @geozidev**
 
 **Personal Instagram:  @geogrigori**
